@@ -83,8 +83,8 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD.git
-cd CheemsBot-MD
+git clone https://github.com/PRINCE-SER/MD-prince.git
+cd MD-prince
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -99,8 +99,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD
-cd CheemsBot-MD
+git clone https://github.com/PRINCE-SER/MD-prince
+cd MD-prince
 npm start
 ```
 ## `For VPS`
@@ -111,8 +111,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD
-cd CheemsBot-MD
+git clone https://github.com/PRINCE-SER/MD-prince
+cd MD-prince
 npm start
 ```
 ## `For 24/7 Activation`
