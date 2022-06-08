@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+PRINCE MD Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/PRINCE-SER" target="_blank">PRINCE</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-SER?color=red&style=flat-square"></a>
+<a href="https://github.com/PRINCE-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-SER?color=red&style=flat-square"></a>
 <a href="https://github.com/PRINCE-SER/MD-prince/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-SER/MD-prince?color=blue&style=flat-square"></a>
 <a href="https://github.com/PRINCE-SER/MD-prince/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PRINCE-SER/MD-prince?color=red&style=flat-square"></a>
 <a href="https://github.com/PRINCE-SER/MD-prince/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-SER/MD-prince?label=Watchers&color=blue&style=flat-square"></a>
@@ -38,7 +38,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/918590565968"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/H1eWblY8BhdCML6xfIwonT"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
@@ -52,8 +52,8 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
+- [`1st GC`](https://chat.whatsapp.com/H1eWblY8BhdCML6xfIwonT)
+- [`2nd GC`](https://chat.whatsapp.com/H1eWblY8BhdCML6xfIwonT)
 
 # Setup For Deployment 👇
 
