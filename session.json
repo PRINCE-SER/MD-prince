@@ -49,14 +49,14 @@
       "deviceSignature": "nokB/aTuQMqP+dIKMoiGMAxTcWleYezW5NQ60yuDvluDB57BlRV4+Yrxr9BmIcZJt7HZIRhxz1uOuqxOks2yAw=="
     },
     "me": {
-      "id": "919402104403:14@s.whatsapp.net",
+      "id": "918590565968:14@s.whatsapp.net",
       "verifiedName": "",
-      "name": "Rizky"
+      "name": "prince"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "919402104403:14@s.whatsapp.net",
+          "name": "918590565968:14@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "919402104403.0": {
+      "918590565968.0": {
         "_sessions": {
           "BdVmB/2K0tMHcBlPiEABC7Rg5wqzrNcjFMIVBXKH7akq": {
             "registrationId": 1957634204,
