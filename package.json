@@ -1,7 +1,7 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "prince-md",
   "version": "1.0.0",
-  "description": "Multi device wa bot created by Xeon Bot Inc.",
+  "description": "Multi device wa bot created by prince Bot Inc.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Xeon",
+  "author": "prince",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -61,10 +61,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD.git"
+    "url": "git+https://github.com/PRINCE-SER/MD-prince.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD/issues"
+    "url": "https://github.com/PRINCE-SER/MD-princ/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD#readme"
+  "homepage": "https://github.com/PRINCE-SER/MD-prince#readme"
 }
