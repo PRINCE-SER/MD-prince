@@ -1224,7 +1224,7 @@ case 'antilink':
                             }, {
                                 quickReplyButton: {
                                     displayText: '👤Owner👤',
-                                    id: 'owner'
+                                    id: 'Wa.me//:918590565968'
                                 }  
                             }, {
                                 quickReplyButton: {
@@ -1254,7 +1254,7 @@ case 'antilink':
                             }, {
                                 quickReplyButton: {
                                     displayText: '👤Owner👤',
-                                    id: 'owner'
+                                    id: 'Wa.me//:918590565968'
                                 }
                             }]
                       fatihgans = fs.readFileSync('./XeonMedia/cheemspic.jpg')
