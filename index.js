@@ -187,7 +187,7 @@ I'm not sure if it was a goodbye charm, but it was fun while it lasted 😌✨` 
             else if (reason === DisconnectReason.timedOut) { console.log("🦄Connection TimedOut, Reconnecting..."); startXeonBotInc(); }
             else { console.log(`Unknown DisconnectReason: ${reason}|${connection}`) }
         }
-        console.log('🦄Connected...', update)
+        console.log('Connected...', update)
     })
     
     XeonBotInc.ev.on('creds.update', saveState)
